@@ -6,7 +6,7 @@ import ScrollToTop from './components/ScrollToTop';
 import Blogs from './pages/Blogs';
 import Home from './pages/Home';
 import Posts from './pages/Posts';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Research from './pages/Research';
 
 
