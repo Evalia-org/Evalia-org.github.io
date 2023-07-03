@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1376f7e1.css",
+    "main.js": "/static/js/main.7142e47f.js",
+    "static/js/787.bfb87caf.chunk.js": "/static/js/787.bfb87caf.chunk.js",
+    "static/media/main_hero.svg": "/static/media/main_hero.9b83ceb1b2f735032792d69491bb316f.svg",
+    "static/media/globe2.svg": "/static/media/globe2.7d39c6aca568ba72d9038ca7d69379dc.svg",
+    "static/media/Evalialogo.png": "/static/media/Evalialogo.06a309ca19c994127d84.png",
+    "static/media/teamGlobe.svg": "/static/media/teamGlobe.82254e25724bd18434fc9a5fffde42c7.svg",
+    "static/media/twitter.svg": "/static/media/twitter.9aee5194ea665780cde15cb44d3a881f.svg",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.6a6615ec401012c9e4a4746f5dd8b038.svg",
+    "static/media/mail.svg": "/static/media/mail.e0e76a686fb4c26595beff6a446fccac.svg",
+    "static/media/insta.svg": "/static/media/insta.192cebda732dbf98d87ac123c88d52bf.svg",
+    "index.html": "/index.html",
+    "static/media/upArrow.svg": "/static/media/upArrow.fbd66406c84f86166d7c5a1a1ff7bdef.svg",
+    "main.1376f7e1.css.map": "/static/css/main.1376f7e1.css.map",
+    "main.7142e47f.js.map": "/static/js/main.7142e47f.js.map",
+    "787.bfb87caf.chunk.js.map": "/static/js/787.bfb87caf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1376f7e1.css",
+    "static/js/main.7142e47f.js"
+  ]
+}
