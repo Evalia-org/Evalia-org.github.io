@@ -1,0 +1,37 @@
+[{
+  "id": 1,
+  "name": "Member1",
+  "pic": "link",
+  "quote": "quote",
+  "linkedIn": "/",
+  "instagram": "/",
+  "email": "gmail.com"
+},
+{
+  "id": 2,
+  "name": "Member2",
+  "pic": "link",
+  "quote": "quote",
+  "linkedIn": "/",
+  "instagram": "/",
+  "email": "gmail.com"
+},
+{
+  "id": 3,
+  "name": "Member3",
+  "pic": "link",
+  "quote": "quote",
+  "linkedIn": "/",
+  "instagram": "/",
+  "email": "gmail.com"
+},
+{
+  "id": 4,
+  "name": "Member4",
+  "pic": "link",
+  "quote": "quote",
+  "linkedIn": "/",
+  "instagram": "/",
+  "email": "gmail.com"
+}
+]

@@ -1,0 +1,50 @@
+[{
+  "id": 1,
+  "name": "Improvements in NLP",
+  "year": "2023",
+  "description": "1 Lorem ",
+  "tags":[ "Privacy","2022","Openess", "Trust"],
+  "link": "/"
+},
+{
+  "id": 2,
+  "name": "More efficient method to develope AR apps.",
+  "year": "2019",
+  "description": " 2Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, laudantium. Cumque officia voluptatem sapiente aut",
+  "tags":["Responsibility","2022","Research","Privacy"],
+  "link": "/"
+},
+{
+  "id": 3,
+  "name": "ReactJs vs NextJS",
+  "year": "2022",
+  "description": " 3Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, laudantium. Cumque officia voluptatem sapiente aut esse ",
+  "tags":["Openess","2022","Research"],
+  "link": "/"
+},
+{
+  "id": 4,
+  "name": "AI: America India :o",
+  "year": "2021",
+  "description": " 4Lorem ipsum dolor, ",
+  "tags":["Accountability","2022","Future","Openess"],
+  "link": "/"
+},
+{
+  "id": 5,
+  "name": "Deepfakes popularity",
+  "year": "2020",
+  "description": " 3Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, laudantium. Cumque officia voluptatem sapiente aut esse ",
+  "tags":["Compliance","Research","NLP"],
+  "link": "/"
+},
+
+{
+  "id": 6,
+  "name": "Future of Web Developement",
+  "year": "2020",
+  "description": " 3Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, laudantium. Cumque officia voluptatem sapiente aut esse ",
+  "tags":["Trust","Research","Openess","Privacy", "Compliance","Accountability"],
+  "link": "/"
+}
+]
